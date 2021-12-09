@@ -1,2 +1,2 @@
-# Practica_Redes_Neuronales
-Práctica 2: Clasificación Señales de Tráfico
+## Practica Redes Neuronales: Clasificación Señales de Tráfico
+Krish Sadhwani Mansukhani, Jan Provazník
