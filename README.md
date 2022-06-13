@@ -1,5 +1,4 @@
 ## Neural Networks Project: Traffic Signs Classification
-_Krish Sadhwani_
 
 Neural networks are a series of algorithms that mimic the operations of a human brain to recognize relationships between vast amounts of data.
 
